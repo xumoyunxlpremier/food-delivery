@@ -38,7 +38,7 @@ function Footer() {
                 Copyright 2025 Tomato.com - All rights reserved.
             </p>
             <p className="footer-copyright">
-                This site done by <a href="https://foziljonovxumoyun.uz"><b>foziljonovxumoyun.uz</b></a>
+                This site done by <a target="blank" href="https://foziljonovxumoyun.uz"><b>foziljonovxumoyun.uz</b></a>
             </p>
         </div>
     );
